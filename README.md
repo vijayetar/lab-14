@@ -2,10 +2,10 @@
 
 Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __30min___
 
-Start time: _____
+Start time: __0515___
 
-Finish time: _____
+Finish time: __05:40___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___45min__s
